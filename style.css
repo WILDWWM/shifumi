@@ -35,3 +35,24 @@ h1{
     background-repeat: no-repeat;    
     background-position: center;
 }
+
+.bouton{
+    text-align: center;
+}
+
+.style_bouton{
+    display: none;
+    border: 0;
+    line-height: 3;
+    margin: 10px;
+    padding: 0 20px;
+    font-size: 3rem;    
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(116, 116, 116);
+}
+
+.style_bouton:hover{
+    background-color: rgb(193, 193, 193);
+}
